@@ -1,7 +1,7 @@
 
 # HTTP Web Basic
-- HTTP 웹 기본 지식
-
+> 🎉 방향성 <br>
+> - HTTP 웹 기본 지식 공부하기
 
 ## 목차
 
