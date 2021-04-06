@@ -2,6 +2,7 @@
 - [목차](#목차)
   - [01. internet-network](#01-internet-network)
   - [02. TCP-UDP](#02-tcp-udp)
+  - [03. port-DNS](#03-port-dns)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -26,4 +27,14 @@
   2.3. 순서 보장
 3. UDP 프로토콜
 
+```
+
+## [03. port-DNS](03.port-DNS.md)
+```
+목차
+
+1. PORT
+  1.1 PORT
+2. DNS
+  2.1 DNS 서버
 ```
