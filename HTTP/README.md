@@ -3,6 +3,7 @@
   - [01. internet-network](#01-internet-network)
   - [02. TCP-UDP](#02-tcp-udp)
   - [03. port-DNS](#03-port-dns)
+  - [04. URI](#04-uri)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -37,4 +38,13 @@
   1.1 PORT
 2. DNS
   2.1 DNS 서버
+```
+
+## [04. URI](04.URI.md)
+```
+목차
+
+1. URI
+  1.1. URL
+  1.2. URN
 ```
