@@ -5,6 +5,7 @@
   - [03. port-DNS](#03-port-dns)
   - [04. URI](#04-uri)
   - [05. HTTP](#05-http)
+  - [06. Stateful/Stateless](#06-statefulstateless)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -58,4 +59,13 @@
   1.1 기반 프로토콜
   1.2. HTTP 특징
 2. 클라이언트 서버 구조
+```
+
+## [06. Stateful/Stateless](06.stateful-less.md)
+```
+목차
+
+1. Stateful
+2. Stateless
+  2.1. Statless 한계
 ```
