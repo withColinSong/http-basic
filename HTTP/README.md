@@ -6,6 +6,7 @@
   - [04. URI](#04-uri)
   - [05. HTTP](#05-http)
   - [06. Stateful/Stateless](#06-statefulstateless)
+  - [07. 비 연결성](#07-비-연결성)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -68,4 +69,13 @@
 1. Stateful
 2. Stateless
   2.1. Statless 한계
+```
+
+## [07. 비 연결성](07.connectionless.md)
+
+```
+목차
+
+1. Connectionless
+  1.1 Connectionless 한계
 ```
