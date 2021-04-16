@@ -7,6 +7,8 @@
   - [05. HTTP](#05-http)
   - [06. Stateful/Stateless](#06-statefulstateless)
   - [07. 비 연결성](#07-비-연결성)
+  - [08. HTTP message](#08-http-message)
+  - [09. HTTP Method](#09-http-method)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -78,4 +80,33 @@
 
 1. Connectionless
   1.1 Connectionless 한계
+```
+
+## [08. HTTP message](08.HTTP-message.md)
+
+```
+목차
+
+1. HTTP 메시지 구조
+  1.1 요청 시작 라인
+    1.1.1 메서드
+    1.1.2 요청 대상
+    1.1.3 HTTP 버전
+  2.1 응답 시작 라인
+  3.1 헤더
+    3.1.1 용도
+  4.1 메시지 바디
+```
+
+## [09. HTTP Method](09.HTTP-method.md)
+```
+1. HTTP 메서드
+  1.1 GET
+  1.2. POST
+  1.3. PUT
+    1.3.1 POST와 차이점
+  1.4. PATCH
+  1.5. DELETE
+  1.6. 그 외 메서드
+
 ```
