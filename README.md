@@ -13,3 +13,7 @@
 ### [06. Stateful/Stateless](HTTP/06.stateful-less.md)
 ### [07. Connectionless](HTTP/07.connectionless.md)
 ### [08. HTTP-message](HTTP/08.HTTP-message.md)
+### [09. HTTP-method](HTTP/09.HTTP-method.md)
+### [10. HTTP-attribute](HTTP/10.HTTP-attribute.md)
+### [11. HTTP-method-use](HTTP/11.HTTP-method-use.md)
+### [12. HTTP-status](HTTP/12.HTTP-status.md)

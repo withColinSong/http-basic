@@ -9,6 +9,9 @@
   - [07. 비 연결성](#07-비-연결성)
   - [08. HTTP message](#08-http-message)
   - [09. HTTP Method](#09-http-method)
+  - [10. HTTP Attribute](#10-http-attribute)
+  - [11. HTTP Method Use](#11-http-method-use)
+  - [12. HTTP Status](#12-http-status)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -100,6 +103,8 @@
 
 ## [09. HTTP Method](09.HTTP-method.md)
 ```
+목차
+
 1. HTTP 메서드
   1.1 GET
   1.2. POST
@@ -109,4 +114,41 @@
   1.5. DELETE
   1.6. 그 외 메서드
 
+```
+
+## [10. HTTP Attribute](10.HTTP-attribute.md)
+```
+목차
+
+1. HTTP 메서드의 속성
+  1.1. 안전
+  1.2. 멱등
+    1.2.1. 멱등 메서드
+    1.2.2. 멱등 활용
+1.3. 캐시 가능
+```
+
+## [11. HTTP Method Use](11.HTTP-method-use.md)
+```
+목차
+
+1. HTTP 메서드 활용
+  1.1. 클라이언트에서 서버로 데이터 전송
+    1.1.1 정적 데이터 조회
+    1.1.2. 동적 데이터 조회
+    1.1.3. HTML Form 데이터 전송
+2. HTTP API를 통한 데이터 전송
+
+```
+
+## [12. HTTP Status](12.HTTP-status.md)
+```
+목차
+
+1. 상태 코드
+  1.1. 1xx (informational)
+  1.2. 2xx (Successful)
+  1.3. 3xx (Redirection)
+  1.4. 4xx (Client Error)
+  1.5. 5xx (Server Error)
 ```
