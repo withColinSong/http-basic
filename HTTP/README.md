@@ -12,6 +12,11 @@
   - [10. HTTP Attribute](#10-http-attribute)
   - [11. HTTP Method Use](#11-http-method-use)
   - [12. HTTP Status](#12-http-status)
+  - [13. HTTP Header](#13-http-header)
+  - [14. Negotiation](#14-negotiation)
+  - [15. Header-Infomation](#15-header-infomation)
+  - [16. Cookie](#16-cookie)
+  - [17. Cashe](#17-cashe)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -151,4 +156,57 @@
   1.3. 3xx (Redirection)
   1.4. 4xx (Client Error)
   1.5. 5xx (Server Error)
+```
+## [13. HTTP Header](13.HTTP-header.md)
+
+```
+목차
+
+1. HTTP 일반 헤더
+  1.1 HTTP 헤더 용도
+  1.2. 표현
+```
+
+## [14. Negotiation](14.negotiation.md)
+```
+목차
+
+1. 협상(콘텐츠 네고시에이션)
+  1.1. 협상과 우선순위1
+  1.2. 협상과 우선순위2
+  1.3. 협상과 우선순위3
+```
+
+## [15. Header-Infomation](15.header-information.md)
+```
+목차
+
+1. 전송 방식
+2. 일반 정보
+3. 특별한 정보
+4. 인증
+```
+
+## [16. Cookie](16.cookie.md)
+```
+목차
+
+1. 쿠키
+  1.1 쿠키 미사용
+    1.1.1 모든 요청에 정보를 넘기는 문제
+  1.2. 쿠키
+    1.2.1 쿠키 생명주기
+    1.2.2 쿠키 도메인
+    1.2.3. 쿠키 경로
+    1.2.4 쿠키 보안
+```
+
+## [17. Cashe](17.cashe.md)
+```
+목차
+
+1. 캐시
+  1.1 캐시가 없을 때
+  1.2. 캐시 적용
+  1.3. 캐시 시간 초과
 ```
