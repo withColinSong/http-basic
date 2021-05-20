@@ -21,4 +21,6 @@
 ### [14. Negotiation](HTTP/14.negotiation.md)
 ### [15. Header-Infomation](HTTP/15.header-information.md)
 ### [16. Cookie](HTTP/16.cookie.md)
-### [17. Cashe](HTTP/17.cashe.md)
+### [17. Cache](HTTP/17.cache.md)
+### [18. Cache](HTTP/18.cache.md)
+### [19. Cache Control](HTTP/19.cache-control.md)
