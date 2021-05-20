@@ -16,7 +16,9 @@
   - [14. Negotiation](#14-negotiation)
   - [15. Header-Infomation](#15-header-infomation)
   - [16. Cookie](#16-cookie)
-  - [17. Cashe](#17-cashe)
+  - [17. Cache](#17-cache)
+  - [18. Cache2](#18-cache2)
+  - [19. Cache Control](#19-cache-control)
 
 ## [01. internet-network](01.internet-network.md)
 
@@ -201,7 +203,7 @@
     1.2.4 쿠키 보안
 ```
 
-## [17. Cashe](17.cashe.md)
+## [17. Cache](17.cache.md)
 ```
 목차
 
@@ -209,4 +211,27 @@
   1.1 캐시가 없을 때
   1.2. 캐시 적용
   1.3. 캐시 시간 초과
+```
+
+## [18. Cache2](18.cache.md)
+```
+목차
+
+1. 검증 헤더와 조건부 요청 1
+  2. 검증 헤더와 조건부 요청 2
+    2.1. Last-Modified, If-modified-Since 단점
+    2.2 Etag(Entity Tag)
+```
+
+## [19. Cache Control](19.cache-control.md)
+```
+목차
+
+1. Cashe-Control
+  1.1 Cache-Control
+    1.1.1 max-age
+    1.1.2 no-cache
+    1.1.3 no-store
+  1.2. Expires
+  1.3. Pragma
 ```
